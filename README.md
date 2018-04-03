@@ -1,2 +1,3 @@
-# reimagined-octo-happiness
-just a new repository
+hello world 
+hi here 
+i like coding
